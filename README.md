@@ -27,6 +27,6 @@ This is my first challenge for my UTSA web development bootcamp.
 
                                             Snapshot of website
 
-link to deployed website: 
+link to deployed website: https://jared-ruiz.github.io/Challenge-01/#social-media-marketing
 
 -J
